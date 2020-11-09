@@ -4,9 +4,9 @@ Este minicurso tem como objetivo explorar a utilização de softwares no sistema
 
 ## Material
 <!-- * [Article](https://arxiv.org/abs/2006.10409) -->
-* Hands-on
-  * Demo 1 - In this demonstration, we create an operational eNodeB, i.e., the main element of a RAN, based on LTE technology and open-source software. In addition to RAN, the software is also capable of emulating functional UEs.
-    * Experiment 1 ([repository](https://github.com/LABORA-INF-UFG/SBRC2020-Minicurso3-Demo1-Exp1 "Demo 1 - Experiment 1"), [video](https://youtu.be/puIOD6nQ3j0)) - UE and RAN emulated by software without the core.
+* Parte prática
+  * Demo 1 - Nesta demonstração, nós criamos um eNodeB operacional, ou seja, criamos o elemento principal de uma RAN, baseado em tecnologia LTE e software livre. Além da RAN, o software também é capaz de emular UEs funcionais.
+    * Experimento 1 ([repositório](https://github.com/LABORA-INF-UFG/SBRC2020-Minicurso3-Demo1-Exp1 "Demo 1 - Experiment 1"), [video](https://youtu.be/puIOD6nQ3j0)) - UE e RAN emulado por software sem a presença do núcleo.
     * Experiment 2 ([repository](https://github.com/LABORA-INF-UFG/SBRC2020-Minicurso3-Demo1-Exp2 "Demo 1 - Experiment 2"), [video](https://youtu.be/X9qrC_dEL6g)) - UE, RAN, and EPC core, all implemented in software.
     * Experiment 3 ([repository](https://github.com/LABORA-INF-UFG/SBRC2020-Minicurso3-Demo1-Exp3 "Demo 1 - Experiment 3"), [video](https://youtu.be/RxZBPlvrYng)) - UE in hardware (conventional cell phone), RAN in hardware (SDR) and software, and the EPC core implemented in software.
   * Demo 2 - In this demonstration, we use the 5G core based on the open-source SBA model. In addition to the core, we also present how to emulate RAN and multiple UEs.
